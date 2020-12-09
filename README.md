@@ -17,7 +17,7 @@
 </ul>
 <h4>Install</h4>
 <ol>
-<li>Install server like <a href="">XAMPP</a> and <a href="">COMPOSER</a></li>
+<li>Install server like <a href="https://www.apachefriends.org/pl/index.html">XAMPP</a> and <a href="https://getcomposer.org/">COMPOSER</a></li>
 <li>Put files on your server</li>
 <li>Open terminal and change directory to folder where you put files</li>
 <li>Use command "php artisan serve"</li>
